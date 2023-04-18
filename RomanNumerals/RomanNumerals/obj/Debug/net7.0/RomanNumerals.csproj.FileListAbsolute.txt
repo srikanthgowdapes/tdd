@@ -1,0 +1,15 @@
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\bin\Debug\net7.0\RomanNumerals.exe
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\bin\Debug\net7.0\RomanNumerals.deps.json
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\bin\Debug\net7.0\RomanNumerals.runtimeconfig.json
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\bin\Debug\net7.0\RomanNumerals.dll
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\bin\Debug\net7.0\RomanNumerals.pdb
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\obj\Debug\net7.0\RomanNumerals.csproj.AssemblyReference.cache
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\obj\Debug\net7.0\RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\obj\Debug\net7.0\RomanNumerals.AssemblyInfoInputs.cache
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\obj\Debug\net7.0\RomanNumerals.AssemblyInfo.cs
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\obj\Debug\net7.0\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\obj\Debug\net7.0\RomanNumerals.dll
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\obj\Debug\net7.0\refint\RomanNumerals.dll
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\obj\Debug\net7.0\RomanNumerals.pdb
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\obj\Debug\net7.0\RomanNumerals.genruntimeconfig.cache
+C:\workspace\SP\github\tdd\RomanNumerals\RomanNumerals\obj\Debug\net7.0\ref\RomanNumerals.dll
